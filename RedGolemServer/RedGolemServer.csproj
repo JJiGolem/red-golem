@@ -45,6 +45,14 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
+    <Compile Include="Framework\EventDelegates.cs" />
+    <Compile Include="Framework\EventNames.cs" />
+    <Compile Include="Framework\Primitives\ParticleFxEventArgs.cs" />
+    <Compile Include="Framework\Primitives\PlayerConnectDeferral.cs" />
+    <Compile Include="Framework\Primitives\PopulationPedCreatingSetters.cs" />
+    <Compile Include="Framework\Primitives\ProjectileEventArgs.cs" />
+    <Compile Include="Framework\Primitives\WeaponDamageEventArgs.cs" />
+    <Compile Include="Framework\ServerEvents.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
