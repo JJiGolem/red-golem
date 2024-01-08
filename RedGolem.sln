@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedGolemServer", "RedGolemServer\RedGolemServer.csproj", "{C6DB438A-D0B2-4DFE-AE5E-90AB15BBC02C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedGolemClient", "RedGolemClient\RedGolemClient.csproj", "{336D6DFA-A152-4D5F-B34E-2714757F0A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6DB438A-D0B2-4DFE-AE5E-90AB15BBC02C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6DB438A-D0B2-4DFE-AE5E-90AB15BBC02C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6DB438A-D0B2-4DFE-AE5E-90AB15BBC02C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6DB438A-D0B2-4DFE-AE5E-90AB15BBC02C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{336D6DFA-A152-4D5F-B34E-2714757F0A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{336D6DFA-A152-4D5F-B34E-2714757F0A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{336D6DFA-A152-4D5F-B34E-2714757F0A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{336D6DFA-A152-4D5F-B34E-2714757F0A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C30C752-6B88-4B5C-9D95-0E6F51138F9A}
+	EndGlobalSection
+EndGlobal
